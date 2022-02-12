@@ -10,6 +10,9 @@
 .chat {
   flex: 12;
   background-color: silver;
+  background-image: url(/public/anime.jpg);
+  background-repeat: no-repeat;
+  background-size: contain;
 }
 
 .inputbox {
@@ -25,6 +28,9 @@
 @media screen and (max-width: 768px) {
   .chat {
     background-color: yellowgreen;
+    background-image: url(/public/dog.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
   }
 
   .inputbox {
