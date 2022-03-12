@@ -9,10 +9,12 @@
 
 .userlist.closed {
   width: 10px;
+  background-color: aqua;
 }
 
 .userlist.open {
   width: 200px;
+  background-color: #cee740;
 }
 
 .userlist .close-button {
